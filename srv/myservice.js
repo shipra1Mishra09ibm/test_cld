@@ -13,7 +13,7 @@ module.exports = (srv) => {
         },
         {
             "vendorId": 3,
-            "name": "IBMClient"
+            "name": "Client"
         }];
         console.log("data aaya " + req.data.vendorId);
 
